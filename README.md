@@ -1,3 +1,3 @@
 # Leetcode
 
-Hei, this is just a page with many of my solutions to differnt leetcode problems, thst I have solved. 
+This is just a page with many of my solutions to different leetcode problems that I have solved. 
